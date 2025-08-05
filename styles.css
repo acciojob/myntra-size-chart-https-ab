@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+table {
+	border: 2px solid black;
+	border-collapse:collapse;
+	width:100%;
+}
+
+#row1 {
+	background-color: #c0504d;
+	color: white;
+}
+
+#row2 {
+	color: white;
+	background-color: #da9694;
+}
+
+#row3 {
+	color: black;
+	background-color: #f2dcdb;
+}
+
+#row4 {
+	color: black;
+	background-color: #d9d9d9;
+}
+
+.header {
+	text-align: left;
+}
